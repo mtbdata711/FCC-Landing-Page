@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/mtbdata711/pen/bQjpXJ.
-
- 
+My FCC landing page. Made as part of my application to Code Your Future!
